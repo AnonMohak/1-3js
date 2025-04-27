@@ -13,4 +13,4 @@ npm run dev
 npm run build
 ```
 # 1-3js
-# 1-3js
+https://anonmohak.github.io/1-3js/
